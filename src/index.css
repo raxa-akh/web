@@ -1,0 +1,24 @@
+#root{
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: stretch; */
+    align-content: space-between;
+    
+}
+
+body, html{
+    background-color: rgb(56, 56, 56);
+    font-family: Inter;
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    
+    box-sizing: border-box;
+}
+
